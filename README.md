@@ -35,7 +35,7 @@ ChaotixSans是一款开源字体，基于Adobe出品的source-han-sans衍生的�
 
 * [Windows](https://www.microsoft.com/en-us/Typography/TrueTypeInstall.aspx)
   
-**注意**：从 Windows 10 1809 开始，Windows 会将字体文件默认安装到用户文件夹下，该行为可能会导致一部分软件找不到字体。建议在字体文件上单击右键，选择“为所有用户安装”，以全局安装。
+**注意**：从 Windows 10 1809 版本开始，Windows 会将字体文件默认安装到用户文件夹下，该行为可能会导致一部分软件找不到字体。建议在字体文件上单击右键，选择“为所有用户安装”，以全局安装。
 
 * [MacOS](https://support.apple.com/en-us/HT201749)
 
