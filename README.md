@@ -15,7 +15,7 @@ ChaotixSans是一款开源字体，基于Adobe出品的source-han-sans衍生的�
 
 ### 技术规格
 
-* **样式**：包含EL(Extra Light),L(Light),R(Regular),M(Medium),B(Bold)五种字重，后续将会陆续增加字重
+* **样式**：包含EL(Extra Light),L(Light),N(Normal),R(Regular),M(Medium),B(Bold),H(Heavy)七种字重
 * **字符集**：含 3,2157 字符
 * **字体类型**：简体中文
 * **Microsoft Office 字体嵌入**：支持 Word、Excel、PowerPoint 等软件的字体嵌入功能
@@ -28,9 +28,11 @@ ChaotixSans是一款开源字体，基于Adobe出品的source-han-sans衍生的�
 | ---------- | ------ |
 | EL(Extra Light)   | 250    |
 | L(Light)   | 300    |
+| N(Normal)   | 350    |
 | R(Regular) | 400    |
 | M(Medium)  | 500    |
 | B(Bold)   | 700    |
+| H(Heavy)   | 900    |
 
 ## 下载与安装
 请前往[**releases**](https://github.com/Chaotixxxx/ChaotixSans/releases)下载最新版本的压缩包，解压后即可得到 TTF 字体文件。当前页面的“Code”按钮仅包含代码和源文件，不包含字体。
