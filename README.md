@@ -19,7 +19,7 @@ ChaotixSans是一款开源字体，基于Adobe出品的source-han-sans衍生的�
 * **字符集**：含 3,2157 字符
 * **字体类型**：简体中文
 * **Microsoft Office 字体嵌入**：支持 Word、Excel、PowerPoint 等软件的字体嵌入功能
-* **封装格式**：TrueType (TTF)
+* **封装格式**：TrueType (TTF)，OTF (OpenType Font)，WOFF (Web Open Font Format)
 * **屏显渲染策略**：全字号亚像素抗锯齿（Windows 10 及更新版本）
 
 ### 字重
@@ -35,7 +35,7 @@ ChaotixSans是一款开源字体，基于Adobe出品的source-han-sans衍生的�
 | H(Heavy)   | 900    |
 
 ## 下载与安装
-请前往[**releases**](https://github.com/Chaotixxxx/ChaotixSans/releases)下载最新版本的压缩包，解压后即可得到 TTF 字体文件。当前页面的“Code”按钮仅包含代码和源文件，不包含字体。
+请前往[**releases**](https://github.com/Chaotixxxx/ChaotixSans/releases)下载最新版本的压缩包，解压后即可得到 相应字体文件。当前页面的“Code”按钮仅包含代码和源文件，不包含字体。
 
 * [Windows](https://www.microsoft.com/en-us/Typography/TrueTypeInstall.aspx)
   
