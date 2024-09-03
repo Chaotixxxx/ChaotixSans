@@ -19,6 +19,9 @@ ChaotixSans是一款开源字体，基于Adobe出品的source-han-sans衍生的�
 * **字符集**：含 3,2157 字符
 * **字体类型**：简体中文
 * **Microsoft Office 字体嵌入**：支持 Word、Excel、PowerPoint 等软件的字体嵌入功能
+
+  **注意**： Word、PowerPoint 等软件在嵌入字体时，因软件 bug 无法子集嵌入 TTC 完整版，导致生成超大体积文档。如遇到这种情况，可换用 TTF 子集版，即可正常嵌入字体子集
+  
 * **封装格式**：TrueType (TTF)，OTF (OpenType Font)，WOFF (Web Open Font Format)
 * **屏显渲染策略**：全字号亚像素抗锯齿（Windows 10 及更新版本）
 
